@@ -1,6 +1,7 @@
-# shantanualsi
+# Shantanu Alshi
 Hello, I'm Shantanu 👋🏾
-<img src="banner.jpg" alt="Hello Banner">
+
+I am a full stack engineer currently working at Gojek Singapore
 
 
 ## Reach out to me on the web 🌎:
