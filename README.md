@@ -3,6 +3,7 @@ Hello, I'm Shantanu 👋🏾
 
 I am a full stack engineer currently working at Gojek Singapore
 
+I also write a <a href="https://www.shantanualshi.com/">Blog</a>
 
 ## Reach out to me on the web 🌎:
 
